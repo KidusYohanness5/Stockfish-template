@@ -1,0 +1,22 @@
+id,species,description,region,conservation_status
+clownfish,Clownfish,"Bright orange fish with white stripes, commonly found in coral reefs.",Indo-Pacific,LC
+goldfish,Goldfish,"Small orange or gold-colored freshwater fish, popular in aquariums.",Worldwide (domestic),LC
+atlantic_bluefin_tuna,Atlantic Bluefin Tuna,"Large migratory tuna found in Atlantic and Mediterranean.",Atlantic Ocean,LC
+southern_bluefin_tuna,Southern Bluefin Tuna,"Cold-water tuna species found in Southern Hemisphere waters.",Southern Oceans,N/A
+pacific_bluefin_tuna,Pacific Bluefin Tuna,"Trans-Pacific tuna species, targeted commercially.",Pacific Ocean,N/A
+beluga_sturgeon,Beluga Sturgeon,"Ancient large sturgeon from Caspian/Black Sea basins.",Europe/Asia,EN
+chinese_sturgeon,Chinese Sturgeon,"Critically endangered anadromous sturgeon.",China/Korea freshwater,CR
+amur_sturgeon,Amur Sturgeon,"Freshwater sturgeon from the Amur River.",East Asia,CR
+tor_putitora,Golden Mahseer,"Large river fish in Himalayan river basins.",Himalayas,EN
+rainbow_runner,Rainbow Runner,"Pelagic marine fish in tropical/subtropical seas.",Worldwide tropical seas,LC
+betta_splendens,Siamese Fighting Fish,"Popular freshwater fish, vulnerable in wild.",Southeast Asia,VU
+red_tailed_black_shark,Red-tailed Black Shark,"Freshwater carp relative, critically endangered.",Thailand,CR
+tilapia,Tilapia,"Freshwater fish widely farmed for food.",Africa/Worldwide,N/A
+salmon,Atlantic Salmon,"Migratory fish famous for upstream spawning.",North Atlantic & rivers,N/A
+great_white_shark,Great White Shark,"Iconic large shark species of coastal waters.",Worldwide,N/A
+catfish,Catfish,"Freshwater whiskered fish in rivers/lakes.",Worldwide,N/A
+climbing_perch,Climbing Perch,"Hardy freshwater fish able to survive out of water.",Asia/Africa,N/A
+piranha,Piranha,"Famous predatory freshwater fish of South America.",Amazon Basin,N/A
+betta_taeniata,Borneo Betta,"Freshwater stream fish of Borneo.",Borneo,DD
+mackerel,Atlantic Mackerel,"Fast schooling fish in temperate oceans.",Atlantic Ocean,N/A
+cod,Atlantic Cod,"Important cold-water fish for fisheries.",North Atlantic,N/A

@@ -1,0 +1,6 @@
+sentence-transformers>=2.2.0
+pillow>=10.0.0
+pinecone>=7.0.0
+python-dotenv>=1.0.0
+gradio>=4.0.0
+
